@@ -1,0 +1,12 @@
+{
+  "env": {
+    "MY_KEY": "development",
+    "SECRET": "dbiacnin@8c."
+  },
+  "build": {
+    "env": {
+      "MY_KEY": "development",
+      "SECRET": "dbiacnin@8c."
+    }
+  }
+}
